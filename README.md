@@ -7,7 +7,7 @@ I did this project in June 2020. A time when distress was at an all-time high be
    
    I coded a bi-directional LSTM network trained it on emotion-detection dataset and tested it on the recent tweets of 'BlacklivesMatter' movement on twitter. 
    
-![alt text]https://i1.wp.com/techconnecto.com/wp-content/uploads/2017/09/Do-Twitter-Sentiment-Analysis-for-Free-Online-Download-Report-in-CSV.png)
+![alt text](https://i.ytimg.com/vi/1gQ6uG5Ujiw/maxresdefault.jpg)
 
 
 #Why Bi-Directional LSTMs?
