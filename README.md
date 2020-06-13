@@ -7,7 +7,7 @@ I did this project in June 2020. A time when distress was at an all-time high be
    
    I coded a bi-directional LSTM network trained it on emotion-detection dataset and tested it on the recent tweets of 'BlacklivesMatter' movement on twitter. 
    
-[alt text](https://pcdn.piiojs.com/i/kqctmw/vw,362,vh,403,kc,1,r,1,pr,2.6,wp,1/https%3A%2F%2Fmonkeylearn.com%2Fstatic%2Fimg%2Fsentiment-analysis%2Fwhat-is-sentiment-analysis6%402x.png)
+[alt text](https://www.upgrad.com/blog/wp-content/uploads/2019/04/70862042.png)
 
 #Why Bi-Directional LSTMs?
 Because they solve  a very common problem of vanishing gradients in neural nets and also the are termed as 'Memory Networks' that can remember the far behind and ahead of whats in the sequence and so I consider it as the best architecture for text classification.
