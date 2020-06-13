@@ -5,7 +5,7 @@ I did this project in June 2020. A time when distress was at an all-time high be
    
    I coded a bi-directional LSTM network trained it on emotion-detection dataset and tested it on the recent tweets of 'BlacklivesMatter' movement on twitter. In this project I have also included a file where I have scraped  tweets using Beautiful Soup.
    
-[alt text](https://miro.medium.com/max/1400/1*QbnbVSRoAyqLG76ZtF-oew.png)
+[alt text](https://blog.skyl.ai/hs-fs/hubfs/Twitter-sentiment-analysis-1.jpg?width=2138&name=Twitter-sentiment-analysis-1.jpg)
 
 #Why Bi-Directional LSTMs?
 Because they solve  a very common problem of vanishing gradients in neural nets and also the are termed as 'Memory Networks' that can remember the far behind and ahead of whats in the sequence and so I consider it as the best architecture for text classification.
