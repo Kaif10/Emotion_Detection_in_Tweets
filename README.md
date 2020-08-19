@@ -4,7 +4,7 @@ main code :(Emotion_detection.ipynb)
 
 
 I did this project in June 2020. A time when distress was at an all-time high because of coronavirus pandemic and Anti-racism protests.
-   I coded a bi-directional LSTM network trained it on emotion-detection dataset and tested it on the recent tweets of 'BlacklivesMatter' movement on twitter. 
+   I coded a bi-directional LSTM network trained it on emotion-detection dataset and tested it on the recent tweets of 'BlacklivesMatter' movement on twitter  which I scraped using Beautiful Soup. 
    
 ![alt text](https://i.ytimg.com/vi/1gQ6uG5Ujiw/maxresdefault.jpg)
 
