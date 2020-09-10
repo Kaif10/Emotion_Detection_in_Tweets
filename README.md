@@ -1,4 +1,4 @@
-# Friends_emotion-detection-with-NLP
+## Emotion detetion in tweets
 main code :(Emotion_detection.ipynb)
 
 
