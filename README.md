@@ -15,6 +15,6 @@ Because they solve  a very common problem of vanishing gradients in neural nets 
 
 extra file: In this project I have also included a file where I have scraped  tweets using Beautiful Soup.
 
-## I wrote a blog on this project. Hope you'll like it. :))
 
-## [Detecting Sentiments in Tweets with Machine Learning](https://kaifkohari10.medium.com/detecting-sentiments-in-tweets-with-machine-learning-376a5010b4dc)
+## I wrote a blog on this project. Hope you'll like it. :))
+>> ## [Detecting Sentiments in Tweets with Machine Learning](https://kaifkohari10.medium.com/detecting-sentiments-in-tweets-with-machine-learning-376a5010b4dc)
