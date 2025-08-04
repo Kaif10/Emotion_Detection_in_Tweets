@@ -4,9 +4,8 @@
 <br />
 <br />
 
-## I wrote a blog on this project. Hope you'll like it. :)
-## [Detecting Sentiments in Tweets with Machine Learning](https://kaifkohari10.medium.com/detecting-sentiments-in-tweets-with-machine-learning-376a5010b4dc)
-
+### I wrote a blog on this project. if you would be interested to understand in detail. :)
+### [Detecting Sentiments in Tweets with Machine Learning](https://kaifkohari10.medium.com/detecting-sentiments-in-tweets-with-machine-learning-376a5010b4dc)
 
 
 <br/>
